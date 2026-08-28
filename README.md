@@ -1,15 +1,19 @@
-### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm 0x20x 
-
-I have been learning and using Java for 4 years, I currently focus on plugins for Minecraft servers.
-I'm currently studying: Software Development Engineering
+## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm 0x20x 
 
 I am open to collaborating on ambitious projects, I love creating projects and exploring my capabilities in them.
-
 If you want to contact me you can send me a request on Discord: 0x20x
 * 🧠  I'm learning Databases and Advanced Mathematics
 * 💻  I'm cybersecurity expert with some certificates.
 * 🤝  I'm open to collaborating on Interesting and ambitious projects
 * 🤘🏻  I Love Linkin Park
+
+### Services
+* Websites
+* Apps (PC, Android and web)
+* Game Development using Godot
+* Minecraft Plugins and Mods
+* APIs
+* And more
 
 ### Skills  
 
